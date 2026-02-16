@@ -1,0 +1,7 @@
+{
+  "name": "Catalyst STEM",
+  "description": "The elite career engine for STEM professionals. Featuring AI-powered job search, live mock interviews, and technical skill blueprints.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
